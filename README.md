@@ -3,16 +3,16 @@ Developed a cyber network security analysis project to detect and analyze potent
 
 # Responsibilities:
 
-Prepared and cleaned cybersecurity datasets from various sources.
-Utilized pandas and seaborn for data exploration and visualization of Anomaly Scores distribution.
-Implemented Anomaly Scores analysis algorithm for anomaly pattern detection.
-Conducted correlation analysis between Anomaly Scores and attack types.
-Generated reports and visualizations to present analysis results effectively.
+- Prepared and cleaned cybersecurity datasets from various sources.
+- Utilized pandas and seaborn for data exploration and visualization of Anomaly Scores distribution.
+ -Implemented Anomaly Scores analysis algorithm for anomaly pattern detection.
+- Conducted correlation analysis between Anomaly Scores and attack types.
+- Generated reports and visualizations to present analysis results effectively.
 
 # Achievements:
 
-Enhanced understanding of cyber network security and identification of potential threats.
-Demonstrated data analysis skills and statistical understanding to evaluate system security.
+- Enhanced understanding of cyber network security and identification of potential threats.
+- Demonstrated data analysis skills and statistical understanding to evaluate system security.
 
 # Technologies Used:
 Python, pandas, seaborn, statistical analysis
